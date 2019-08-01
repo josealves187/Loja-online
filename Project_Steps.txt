@@ -1,4 +1,8 @@
-|-----------------------------------------------------------------
+﻿|-----------------------------------------------------------------
+
+https://github.com/josealves187/Loja-online/network/alerts
+erro 
+
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
 | - Khozema Nullwala
